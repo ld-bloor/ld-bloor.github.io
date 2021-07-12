@@ -114,16 +114,6 @@
 
 @media screen and (max-width: 1500px)
 {
-    .music
-    {
-        /* left: 50%; */
-    }
-
-    .music .square-image-music
-    {
-        padding: 0px;
-    }
-
     .music img
     {
         height: 250px;
@@ -151,7 +141,7 @@
         box-shadow: 0 0 10px #eee;
         padding-left: 5px;
         padding-top: 5px;
-        margin-left: 13px;
+        /* margin-left: 13px; */
     }
 
     .inner-text h4, .inner-text h6
